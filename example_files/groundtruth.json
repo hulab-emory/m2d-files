@@ -1,0 +1,42 @@
+[
+    {
+        "filename": "example1.csv",
+        "groundTruth": [0]
+    },
+    {
+        "filename": "example2.csv",
+        "groundTruth": [0]
+    },
+    {
+        "filename": "example3.csv",
+        "groundTruth": [0]
+    },
+    {
+        "filename": "example4.csv",
+        "groundTruth": [0]
+    },
+    {
+        "filename": "example5.csv",
+        "groundTruth": [0]
+    },
+    {
+        "filename": "example6.csv",
+        "groundTruth": [1]
+    },
+    {
+        "filename": "example7.csv",
+        "groundTruth": [1]
+    },
+    {
+        "filename": "example8.csv",
+        "groundTruth": [1]
+    },
+    {
+        "filename": "example9.csv",
+        "groundTruth": [1]
+    },
+    {
+        "filename": "example10.csv",
+        "groundTruth": [1]
+    }
+]
